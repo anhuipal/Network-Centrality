@@ -1,0 +1,40 @@
+Top words in document for cluster:  18 
+Word: @Calango, TF-IDF: 0.05297 
+Word: @t3ddyyyyy, TF-IDF: 0.03353 
+Word: lolla, TF-IDF: 0.0163 
+Top words in document for cluster:  63 
+Word: @EU_Commission, TF-IDF: 0.0284 
+Word: @markpalexander, TF-IDF: 0.01515 
+Word: @JunckerEU, TF-IDF: 0.01515 
+Top words in document for cluster:  101 
+Word: @BTS_twt, TF-IDF: 0.12946 
+Word: amo, TF-IDF: 0.02055 
+Word: @pledis_17, TF-IDF: 0.01596 
+Top words in document for cluster:  115 
+Word: @GirlDoYouLoveMe, TF-IDF: 0.1238 
+Word: #TheFaceThailandseason3, TF-IDF: 0.1238 
+Word: ﺑﻴﺪﻙ, TF-IDF: 0.1238 
+Top words in document for cluster:  150 
+Word: @BBCNews, TF-IDF: 0.03176 
+Word: @BBCBreaking, TF-IDF: 0.02476 
+Word: #UniteForEurope, TF-IDF: 0.01716 
+Top words in document for cluster:  239 
+Word: @timfarron, TF-IDF: 0.0186 
+Word: #UniteForEurope, TF-IDF: 0.01703 
+Word: @JolyonMaugham, TF-IDF: 0.01376 
+Top words in document for cluster:  248 
+Word: @BieberNovidade, TF-IDF: 0.0462 
+Word: @bieberfollowBRA, TF-IDF: 0.02824 
+Word: @nacao_bieber, TF-IDF: 0.01283 
+Top words in document for cluster:  298 
+Word: @KARD_BRASIL, TF-IDF: 0.04065 
+Word: comprar, TF-IDF: 0.01152 
+Word: que, TF-IDF: 0.00874 
+Top words in document for cluster:  506 
+Word: @camilacabello97, TF-IDF: 0.074 
+Word: @radiodisney, TF-IDF: 0.074 
+Word: #FifthHarmony, TF-IDF: 0.0555 
+Top words in document for cluster:  514 
+Word: @sophiaabrahao, TF-IDF: 0.17625 
+Word: que, TF-IDF: 0.01336 
+Word: saudade, TF-IDF: 0.00928 

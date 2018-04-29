@@ -1,0 +1,36 @@
+Top words in document for user:  ajmpolite 
+Word: #stopbrexit, TF-IDF: 0.05014 
+Word: @BBCBreaking, TF-IDF: 0.02703 
+Word: Hey, TF-IDF: 0.02507 
+Top words in document for user:  Bristol4Europe 
+Word: #MarchForEurope, TF-IDF: 0.14648 
+Word: @metpoliceuk, TF-IDF: 0.10027 
+Word: Respect, TF-IDF: 0.10027 
+Top words in document for user:  kath46blue 
+Word: biased, TF-IDF: 0.18049 
+Word: BREMAIN, TF-IDF: 0.12033 
+Word: covering, TF-IDF: 0.09731 
+Top words in document for user:  Insinuare 
+Word: #MarchForEurope2017, TF-IDF: 0.14846 
+Word: ICYM, TF-IDF: 0.12195 
+Word: legally, TF-IDF: 0.0813 
+Top words in document for user:  suenay682 
+Word: London?, TF-IDF: 0.10743 
+Word: Why, TF-IDF: 0.07723 
+Word: march, TF-IDF: 0.07723 
+Top words in document for user:  Rupert1311 
+Word: national, TF-IDF: 0.21487 
+Word: interest, TF-IDF: 0.21487 
+Word: news, TF-IDF: 0.21487 
+Top words in document for user:  cymrojazz 
+Word: Anything, TF-IDF: 0.12801 
+Word: happening, TF-IDF: 0.12801 
+Word: #brexit, TF-IDF: 0.12801 
+Top words in document for user:  andy_webbo 
+Word: people, TF-IDF: 0.0778 
+Word: Marching, TF-IDF: 0.0778 
+Word: Europe, TF-IDF: 0.0778 
+Top words in document for user:  Spigot696 
+Word: @bbcnews, TF-IDF: 0.14603 
+Word: #BBCBias, TF-IDF: 0.10222 
+Word: Reporting, TF-IDF: 0.10222 

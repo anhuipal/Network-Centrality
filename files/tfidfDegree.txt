@@ -1,0 +1,16 @@
+Top words in document for cluster:  XVlDEOSCOM 
+Word: ＠846242, TF-IDF: 0.11552 
+Word: https://t.co/f8hqHEF6Gs, TF-IDF: 0.03316 
+Word: https://t.co/eU4YFNUbVR, TF-IDF: 0.02995 
+Top words in document for cluster:  chirochan_x 
+Word: ＠null, TF-IDF: 0.11552 
+Word: 09:30PM, TF-IDF: 0.01411 
+Word: 11:16PM, TF-IDF: 0.00439 
+Top words in document for cluster:  484916 
+Word: 09:41PM, TF-IDF: 0.00309 
+Word: 09:49PM, TF-IDF: 0.00309 
+Word: 09:50PM, TF-IDF: 0.00309 
+Top words in document for cluster:  Ivduel 
+Word: ＠6vNANS, TF-IDF: 0.11552 
+Word: 13iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii…, TF-IDF: 0.00629 
+Word: 11:30PM, TF-IDF: 0.0062 

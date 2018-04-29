@@ -1,0 +1,40 @@
+﻿
+==============================================================================
+1. Multi-Level Louvain Communities in N3 (36737, Res=1.000000, Q=0.997951, NC=15968)
+==============================================================================
+Dimension: 36737
+The lowest value:      1
+The highest value: 15968
+
+The highest clusters values: 
+
+      Rank    Vertex   Cluster     Id
+-------------------------------------
+         1     36737     15968     endlessjaureg
+         2     36736     15968     deminhally
+         3     36734     15967     BrewDog
+         4     36733     15967     jessyp
+         5     36731     15966     vieirices
+         6     36730     15966     alinegstos
+         7     36729     15965     jegteg
+         8     36728     15965     MrKeithPearce
+         9     36726     15964     lets_oss
+        10     36725     15964     Lauren_jaque
+
+Frequency distribution of cluster values:
+
+   Cluster      Freq     Freq%   CumFreq  CumFreq% Representative
+ ----------------------------------------------------------------
+        18        58    0.1579       105    0.2858 eu_luiza1010
+        63        95    0.2586       355    0.9663 ChrisChrisatrdg
+       101       164    0.4464       643    1.7503 onIyjongin
+       115       100    0.2722       784    2.1341 AddMyWatsAp87
+       150       604    1.6441      1495    4.0695 brendanmcs
+       239       122    0.3321      1944    5.2917 leoniedelt
+       248       232    0.6315      2222    6.0484 jeliebedrauhl
+       298       159    0.4328      2518    6.8541 Ana_KuroNyan
+       506        57    0.1552      3262    8.8793 agatha_52
+       514        68    0.1851      3358    9.1406 cadreams6
+ ----------------------------------------------------------------
+       Sum     36737  100.0000
+
